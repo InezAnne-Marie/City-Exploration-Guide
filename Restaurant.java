@@ -1,6 +1,6 @@
 
 
-public class Restaurant{
+public class Restaurant extends Venue{
 	// instance variables
 	private String description;
 	private ArrayList<Dining> restaurants;
